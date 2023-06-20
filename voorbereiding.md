@@ -69,12 +69,12 @@
 ### Gebruiker
 > maak nieuw account<br>
 > sla de inlog gegevens veilig op <br>
-> verifieer inlog gegevens<br>
->> blokkeer na 3 foute inlog pogingen<br>
 > zoek in eigen data<br>
 > voeg data toe<br>
 > update md metadata<br>
 > delete data<br>
+> verifieer inlog gegevens<br>
+>> blokkeer na 3 foute inlog pogingen<br>
 
 ## ACTEURS ANALYSE
 
